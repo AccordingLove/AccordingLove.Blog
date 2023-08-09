@@ -1,3 +1,7 @@
+
 baseURL = 'https://github.com/AccordingLove/AccordingLove.Blog.git'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+
+languageCode = 'zh-CN'
+title = 'AccordingLove'
+theme = 'stack'
+Paginate = 10 
